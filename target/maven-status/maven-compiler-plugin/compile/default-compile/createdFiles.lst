@@ -1,0 +1,7 @@
+pl\sda\bart\model\Product.class
+pl\sda\bart\controller\LoginServlet.class
+pl\sda\bart\controller\AdminFilter.class
+pl\sda\bart\controller\LanguageServlet.class
+pl\sda\bart\controller\LangProvider.class
+pl\sda\bart\controller\ProductService.class
+pl\sda\bart\model\Product$Builder.class
